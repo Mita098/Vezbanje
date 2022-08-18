@@ -23,7 +23,7 @@ public class Zadatak1_16_08_2022 {
 		int x = sumiranje(a , b);
 		x = sumiranje (x , c);
 		x = sumiranje (x , 10);
-		System.out.println("rezultat sumiranje je: " + x);
+		System.out.println("rezultat sumiranja + 10 je: " + x);
 	}
 	public static int sumiranje(int a, int b) {
 		return a + b;
